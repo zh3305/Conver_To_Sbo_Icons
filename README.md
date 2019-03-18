@@ -7,6 +7,6 @@
 - 将透明色替换为Sbo中的透明色(R:192 G:220 B:192)
 - 生成图像大小为16x16 像素 和26x18 像素 两种!
 
-![image2](\image2.png)
+![示例](./image2.png)
 
-![image2](\image1.png)
+![示例](./image2.png)
